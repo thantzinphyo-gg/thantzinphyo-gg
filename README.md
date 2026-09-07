@@ -8,11 +8,8 @@ Tech Stack & Skills
 
 **AI/ML** - Python , PyTorch , Hugging Face Transformers , ASR , TTS , Dataset Preparation , Speech & language Processing
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,python,tensorflow,azure,git" />
-  </a>
-</p>
+
+[![Skills](https://i.icoziv.workers.dev/icons?i=python,pytorch,huggingface,numpy,pandas,dart,tensorflow,azure)]()
  
 Connect With Me:
  
