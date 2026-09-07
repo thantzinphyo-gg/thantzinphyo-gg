@@ -2,7 +2,7 @@ Hi 👋, I'm Thant Zin Phyo From Burma.
 
 Exploring Burmese Speech & AI/ML
 
-Interested in Burmese Speech AI, ASR, and Machine Learning. Currently exploring speech models, Burmese speech data, and language processing.
+Interested in Burmese Speech AI , ASR , and Machine Learning. Currently Exploring Speech Models , Burmese Speech Data & Language Processing.
 
 Tech Stack & Skills
 
