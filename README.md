@@ -6,7 +6,7 @@ Interested in Burmese Speech AI , ASR , and Machine Learning. Currently Explorin
 
 Tech Stack & Skills
 
-**AI/ML** - Python , PyTorch , Hugging Face Transformers , ASR , TTS , Dataset Preparation , Speech & language Processing
+**AI/ML** - Python , PyTorch , Hugging Face Transformers , ASR , TTS , Dataset Preparation , Speech & Language Processing
 
 
 [![Skills](https://i.icoziv.workers.dev/icons?i=python,pytorch,huggingface,numpy,pandas,dart,tensorflow,azure)]()
