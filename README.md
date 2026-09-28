@@ -10,8 +10,3 @@ Tech Stack & Skills
 
 
 ![Skills](https://i.icoziv.workers.dev/icons?i=python,pytorch,huggingface,numpy,pandas,dart,flutter,azure)
- 
-Connect With Me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thantzinphyo11/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge)](https://huggingface.co/thantzinphyo)
