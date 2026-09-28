@@ -1,4 +1,4 @@
-Hi 👋, I'm Thant Zin Phyo From Burma.
+Hi 👋, I'm Thant Zin Phyo .
 
 Exploring Burmese Speech & AI/ML
 
