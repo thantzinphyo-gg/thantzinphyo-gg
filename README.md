@@ -11,5 +11,5 @@ Tech Stack
 
 Connect
 
-- [YouTube](https://huggingface.co/thantzinphyo)
+- [Huggingface](https://huggingface.co/thantzinphyo)
 - [LinkedIn](https://www.linkedin.com/in/thantzinphyo-gg)
