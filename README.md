@@ -4,9 +4,12 @@ Exploring Burmese Speech & AI/ML
 
 Interested in Burmese Speech AI , ASR , and Machine Learning. Currently Exploring Speech Models , Burmese Speech Data & Language Processing.
 
-Tech Stack & Skills
+Tech Stack
 
-**AI/ML** - Python , PyTorch , Hugging Face Transformers , ASR , TTS , Dataset Preparation , Speech & Language Processing
+**AI/ML** - Python · PyTorch · Hugging Face · Flutter · Dart · NumPy · Pandas · Git · Azure
 
 
-![Skills](https://i.icoziv.workers.dev/icons?i=python,pytorch,huggingface,numpy,pandas,dart,flutter,azure)
+Connect
+
+- [YouTube](https://huggingface.co/thantzinphyo)
+- [LinkedIn](https://www.linkedin.com/in/thantzinphyo-gg)
