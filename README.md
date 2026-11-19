@@ -4,7 +4,7 @@ Currently Exploring Speech Models , Burmese Speech Data & Language Processing.
 
 Tech Stack
 
-**AI/ML** - Python · PyTorch · Hugging Face · Flutter · Dart · NumPy · Pandas · Git · Azure
+AI/ML - Python · PyTorch · Hugging Face · Flutter · Dart · NumPy · Pandas · Git · Azure
 
 
 Connect
